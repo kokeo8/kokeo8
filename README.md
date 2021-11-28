@@ -1,6 +1,6 @@
-- 👋 Hi, I’m kokeo8
-- 👀 I’m interested in sap
-- 🌱 I’m currently learning abap/4
+- 👋 Hi, I’m 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
